@@ -1,5 +1,5 @@
 # Tableau---Citi-Bike-Analytics
-To create a Tableau story that brings together interactive data visualizations, dynamic maps, and dashboard for the Citi Bike Data
+To create a Tableau story that brings together interactive data visualizations, dynamic maps, and dashboard for the Citi Bike Data(https://public.tableau.com/app/profile/ranjani3489/viz/Citi_Bike_Analysis_Tableau/Story1?publish=yes)
 
 
 ## Background
@@ -69,7 +69,9 @@ However, while the data has been regularly updated, the team has yet to implemen
 * This is what will be presented to the officials, so be sure to make it professional, logical, and visually appealing. 
 
 
+**Result:
 
+The Tableau analysis can be viewed here: [Citi Bike - Tableau Analysis](https://public.tableau.com/app/profile/ranjani3489/viz/Citi_Bike_Analysis_Tableau/Story1?publish=yes)
 
 
 
